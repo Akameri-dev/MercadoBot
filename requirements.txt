@@ -1,4 +1,5 @@
 discord.py
-pymongo
+pymongo[srv]
 flask
+python-dotenv
 gunicorn
